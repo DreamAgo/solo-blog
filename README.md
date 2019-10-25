@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [[Vue]computed计算属性undefined的排错](https://blog.loverot.cn/articles/2019/10/25/1571933550635.html)
 * [[SpringBoot]整合springboot+shiro+redis出现Cacheable注解无效的解决办法](https://blog.loverot.cn/articles/2019/10/20/1571563508137.html)
 * [[Springboot]整合shiro+jwt+redis出现部分Controller无法访问404](https://blog.loverot.cn/articles/2019/10/20/1571558313117.html)
 * [[SpringBoot]SpringBoot整合shiro+jwt全局拦截失效之谜](https://blog.loverot.cn/articles/2019/10/19/1571505432202.html)
@@ -29,6 +30,9 @@
 * [[C#]将状态信息放置在控制台最下面](https://blog.loverot.cn/articles/2019/02/06/1549473707457.html)
 * [[C#]Action和Func的使用](https://blog.loverot.cn/articles/2019/02/04/1549294282380.html)
 * [关于Linux下依赖管理工具（yum|apt）下载加速的方法](https://blog.loverot.cn/articles/2019/02/04/1549254311748.html)
+
+### 热门
+
 * [Dockerfile文件各参数解析](https://blog.loverot.cn/articles/2019/02/03/1549173204338.html)
 
 
